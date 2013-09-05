@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/New Folder/IKSolver.cs">
     <Files>
+      <File FileName="../IK/RJ_Demo_IK/CalcIK_2D_ConstraintRelaxation.xaml.cs" Line="206" Column="1" />
       <File FileName="Assets/New Folder/NewBehaviourScript.cs" Line="33" Column="27" />
-      <File FileName="Assets/New Folder/IKSolver.cs" Line="665" Column="1" />
-      <File FileName="../IK/RJ_Demo_IK/CalcIK_2D_ConstraintRelaxation.xaml.cs" Line="559" Column="1" />
+      <File FileName="Assets/New Folder/IKSolver.cs" Line="937" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
